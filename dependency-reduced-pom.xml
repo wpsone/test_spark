@@ -89,7 +89,11 @@
     </dependencies>
   </dependencyManagement>
   <properties>
+    <scala.version>2.11.8</scala.version>
+    <encoding>UTF-8</encoding>
+    <hadoop.version>2.7.5</hadoop.version>
     <maven.compiler.source>8</maven.compiler.source>
+    <spark.version>2.3.3</spark.version>
     <maven.compiler.target>8</maven.compiler.target>
   </properties>
 </project>
